@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Forzar color de fondo global */
+body {
+  background-color: #F8F5FA;
+  color: #3A2B42;
+}
